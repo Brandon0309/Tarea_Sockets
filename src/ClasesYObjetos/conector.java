@@ -17,7 +17,7 @@ public class conector {
             socket = new Socket();
             socket = server.accept();
 
-            entrada = new BufferedReader(new InputStreamReader(socket.getInputStream()))
+            entrada = new BufferedReader(new InputStreamReader(socket.getInputStream()));
 
         }catch (Exception e){};
 
