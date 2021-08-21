@@ -5,7 +5,7 @@ import java.net.*;
 import java.io.*;
 
 
-public class conector {
+public class server {
 
     ServerSocket server;
     Socket socketSocket;

@@ -14,8 +14,8 @@ public class Main {
         try {
 
 
-            conector c = new conector();
-            c.iniciar();
+            server s = new server();
+            s.iniciar();
 
 
             /*
