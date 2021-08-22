@@ -20,6 +20,7 @@ public class server {
 
 
     public void iniciar() {
+        //implementar cliente en main sin estorbar al server, quitar las solicitudes del server al cliente, crear GUI
 
         try{
            /*
